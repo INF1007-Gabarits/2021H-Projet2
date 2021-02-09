@@ -1,7 +1,7 @@
 # Projet 2 - Des films pour le confinement!
 
 <!--- Changer la date de remise en modifiant le URL--->
-#### :alarm_clock: [Date de remise le lundi 9 mars à 23h59](https://www.timeanddate.com/countdown/generic?iso=20210309T2359&p0=165&font=cursive)
+#### :alarm_clock: [Date de remise le dimanche 7 mars à 23h59](https://www.timeanddate.com/countdown/generic?iso=20210309T2359&p0=165&font=cursive)
 
 ## Grille de correction
 Le projet est sur 20. En lisant les instructions, faites attention à retourner vs afficher. Si vous ne retournez pas ou n'affichez pas ce qui est demandé, il y aura des pénalités. Le choix des structures de données est important dans ce TP. Choisir la mauvaise structure de données mènera à une pénalité.
